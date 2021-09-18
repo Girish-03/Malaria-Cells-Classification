@@ -14,7 +14,7 @@ This project uses the Machine Learning algorithms like K-Nearest Neighbors and i
 * Visualizing data- for better understanding. We can see deformed infected cells.
 
 **KNN**
-* Training and classfiication using KNN.
+* Training and classification using KNN.
 * Hyperparameter tuning using n-fold cross validation
 * Evaluation 
 
